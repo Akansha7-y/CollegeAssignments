@@ -314,7 +314,7 @@ public class citymanagement {
     }
 
     public static void main(String[] args) {
-        citymanagement app = new citymanagement();
-        app.mainMenu();
+        citymanagement lib = new citymanagement();
+        lib.mainMenu();
     }
 }
