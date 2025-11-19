@@ -156,7 +156,7 @@ public class Resultstudent {
     }
 
     public static void main(String[] args) {
-        Resultstudent rms = new Resultstudent();
-        rms.mainMenu();
+        Resultstudent res = new Resultstudent();
+        res.mainMenu();
     }
 }
